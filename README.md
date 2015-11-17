@@ -1,7 +1,11 @@
 # Swift-iOS-Push-Notification
-A working Swift 2.0 code for Apple's APNS - Push Notification
+Working iOS Swift 2.0 code for Apple's APNS - Push Notification
 
-YouTube Video Link : https://youtu.be/3HGPnuiLHM0
+Video with complete procedure : https://youtu.be/3HGPnuiLHM0
+
+PHP Code : https://github.com/sivaganeshsg/PHP-Push-Notification-File
+
+iOS Swift Code : https://github.com/sivaganeshsg/Swift-iOS-Push-Notification
 
 YouTube Channel : https://www.youtube.com/channel/UCqsykfNSUoluIkurDnQfXWA
 
